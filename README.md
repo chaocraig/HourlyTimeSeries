@@ -15,6 +15,7 @@ For the following two problems, submit the answer as a space separated file of h
 
 
 Q3.3: Predict the temperature for the 24 hour period on January 1st, 2012 for cities A through E.*
+```
 "1" 37 33 31 23 29
 "2" 35 29 29 13 32
 "3" 33 32 29 20 32
@@ -39,9 +40,10 @@ Q3.3: Predict the temperature for the 24 hour period on January 1st, 2012 for ci
 "22" 22 29 25 17 32
 "23" 22 29 25 21 31
 "24" 22 29 25 20 31
-
+```
 
 Q3.4: Predict the temperature for the 24 hour period on March 3rd, 2012 for cities A through E.*
+```
 "1" 22 29 25 19 31
 "2" 22 29 25 19 31
 "3" 22 29 25 19 31
@@ -66,4 +68,4 @@ Q3.4: Predict the temperature for the 24 hour period on March 3rd, 2012 for citi
 "22" 22 29 25 19 31
 "23" 22 29 25 19 31
 "24" 22 29 25 19 31
-
+```
